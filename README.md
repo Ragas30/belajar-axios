@@ -7,4 +7,4 @@ Belajar Perkenalan AXIOS
 # Anggota 
 | Nama | Posisi | URL Profile |
 | ------ | ------ | ------ |
-| Gema fajar ramadhan | maintainer | https://gitlab.com/gemafajar09 |
+| Gema fajar ramadhan | maintainer | https://github.com/gemafajar09 |
